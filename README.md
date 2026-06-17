@@ -1,5 +1,9 @@
 # iRODS S3 API
 
+## Maintainer
+
+Mike Conway - mike.conway@nih.gov
+
 A project that presents an iRODS Zone as S3 compatible storage.
 
 ![S3 API network diagram](s3_api_diagram.png)
